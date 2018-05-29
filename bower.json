@@ -14,12 +14,8 @@
     "tests"
   ],
   "dependencies": {
-    "font-awesome": "*",
     "jquery": "^3.2.1",
     "bootstrap": "*",
-    "owl.carousel": "^2.2.1",
-    "jquery-mask-plugin": "^1.14.13",
-    "wow": "wowjs#^1.1.2",
-    "round-slider": "*"
+    "jquery-mask-plugin": "^1.14.13"
   }
 }
